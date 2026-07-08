@@ -1,8 +1,8 @@
 # About me
 
-- I'm a Computer Science student.
+- I have a BS Applied Mathematics degree.
+- I'm currently a Computer Science student.
 - I'm currently working on some personal projects to improve my skills.
-- I'm currently learning Backend development.
 
 <!--
 **Michael7Cruz/Michael7Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
